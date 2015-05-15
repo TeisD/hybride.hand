@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hybride.hand</string>
+
+    <string name="io"></string>
+    <string name="description">Voel RFID-tags.</string>
+    <string name="title">Hybride.hand</string>
+    <string name="howto_1">Plaats de smartphone op de rug van je hand, met het scherm naar boven en de onderkant ter hoogte van je vingertoppen.</string>
+    <string name="howto_2">Voel RFID tags. Je vindt deze in meer objecten dan je denkt, zoals klantenkaarten, boeken en allerlei verpakkingen.</string>
+</resources>
